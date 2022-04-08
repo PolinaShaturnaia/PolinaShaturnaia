@@ -37,11 +37,13 @@ Ready for relocation.
 •	ML libraries: pandas, numpy, scipy, sklearn, seaborn, matplotlib, lightgbm, catboost, statsmodels
 •	DL libraries: pytorch, tensorflow, transformers
 
+The projects are in the repository: https://github.com/PolinaShaturnaia/Data_Science_projects
+| Project name | Description | Libraries used | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Classification of comments into positive and negative](toxic-comments-with-BERT) | Automate business comment toxicity assessment. | *pandas*, *torch*, *transformers*, *numpy*, *tqdm*, *sklearn*, *catboost* |
+| [Predicting customer churn](predicting-customer-loss) | Data analysis and user churn forecasting. | *pandas*, *numpy*, *datetime*, *seaborn*, *matplotlib*, *sklearn*, *catboost*, *lightgbm*|
 
-My Repositories
-Projects
-predicting-customer-loss
-toxic-comments-with-BERT
+Sorry... projects are written with comments in Russian. In the future, I will duplicate projects with comments in English.
 
 Socials and contacts
 LinkedIn: https://www.linkedin.com/in/polinashaturnaia/
