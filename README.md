@@ -10,8 +10,12 @@ My main strength is the ability to build high-quality communications. The intere
 Ready to start working.
 Ready for relocation.
 
+Skills:
+
 •	Python – 1 year
+
 •	SQL – 1 year
+
 •	Natural language processing:
   o	Text vectorization
   o	Text lemmatization
