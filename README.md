@@ -21,26 +21,47 @@ Skills:
   o	Text vectorization
   
   o	Text lemmatization
+  
   o	TF-IDF
+  
   o	Transfer learning, pretraining, finetuning BERT
+  
   o	Transformers
+  
   o	Language modeling, self-training
+  
   o	Regular expressions
+
 •	Machine learning:
+  
   o	Data wrangling, writing feature extraction pipelines
+  
   o	Supervised and unsupervised learning
+  
   o	Neural networks
+  
   o	Data exploration
+  
   o	Gradient boosting and ensemble algorithms
+  
   o	Model blending and stacking
+  
   o	Metric learning
+
 •	Computer vision:
+  
   o	Keras
+  
   o	Сonvolutional neural network, CNN
+  
   o	LeNet
+  
   o	Adam algorithm
+  
   o	Augmentation
+
 •	ML libraries: pandas, numpy, scipy, sklearn, seaborn, matplotlib, lightgbm, catboost, statsmodels
+
 •	DL libraries: pytorch, tensorflow, transformers
 
 The projects are in the repository: https://github.com/PolinaShaturnaia/Data_Science_projects
@@ -52,5 +73,7 @@ The projects are in the repository: https://github.com/PolinaShaturnaia/Data_Sci
 Sorry... projects are written with comments in Russian. In the future, I will duplicate projects with comments in English.
 
 Socials and contacts
+
 LinkedIn: https://www.linkedin.com/in/polinashaturnaia/
+
 Email: shaturnaia.polina@gmail.com
