@@ -1,4 +1,4 @@
-### Hi there 👋
+**Hi there 👋**
 
 In case you are wondering i'am currently open to new roles.
 #opentowork #datascience #data-science
@@ -10,55 +10,36 @@ My main strength is the ability to build high-quality communications. The intere
 Ready to start working.
 Ready for relocation.
 
-Skills:
+**Skills:**
 
 •	Python – 1 year
 
 •	SQL – 1 year
 
 •	Natural language processing:
-
-  o	Text vectorization
-  
-  o	Text lemmatization
-  
-  o	TF-IDF
-  
-  o	Transfer learning, pretraining, finetuning BERT
-  
-  o	Transformers
-  
-  o	Language modeling, self-training
-  
-  o	Regular expressions
+  - Text vectorization
+  - Text lemmatization
+  - TF-IDF
+  - Transfer learning, pretraining, finetuning BERT
+  - Transformers
+  - Language modeling, self-training
+  - Regular expressions
 
 •	Machine learning:
-  
-  o	Data wrangling, writing feature extraction pipelines
-  
-  o	Supervised and unsupervised learning
-  
-  o	Neural networks
-  
-  o	Data exploration
-  
-  o	Gradient boosting and ensemble algorithms
-  
-  o	Model blending and stacking
-  
-  o	Metric learning
+  - Data wrangling, writing feature extraction pipelines
+  - Supervised and unsupervised learning
+  - Neural networks
+  - Data exploration
+  - Gradient boosting and ensemble algorithms
+  - Model blending and stacking
+  - Metric learning
 
 •	Computer vision:
-  
-  o	Keras
-  
-  o	Сonvolutional neural network, CNN
-  
-  o	LeNet
-  
-  o	Adam algorithm
-  
-  o	Augmentation
+  - Keras
+  - Сonvolutional neural network, CNN
+  - LeNet
+  - Adam algorithm
+  - Augmentation
 
 •	ML libraries: pandas, numpy, scipy, sklearn, seaborn, matplotlib, lightgbm, catboost, statsmodels
 
@@ -70,10 +51,9 @@ The projects are in the repository: https://github.com/PolinaShaturnaia/Data_Sci
 | [Classification of comments into positive and negative](toxic-comments-with-BERT) | Automate business comment toxicity assessment. | *pandas*, *torch*, *transformers*, *numpy*, *tqdm*, *sklearn*, *catboost* |
 | [Predicting customer churn](predicting-customer-loss) | Data analysis and user churn forecasting. | *pandas*, *numpy*, *datetime*, *seaborn*, *matplotlib*, *sklearn*, *catboost*, *lightgbm*|
 
-Sorry... projects are written with comments in Russian. In the future, I will duplicate projects with comments in English.
+*Sorry... projects are written with comments in Russian. In the future, I will duplicate projects with comments in English.*
 
-Socials and contacts
+**Socials and contacts**
 
-LinkedIn: https://www.linkedin.com/in/polinashaturnaia/
-
-Email: shaturnaia.polina@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/polinashaturnaia/
+  - Email: shaturnaia.polina@gmail.com
