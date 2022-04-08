@@ -17,7 +17,9 @@ Skills:
 •	SQL – 1 year
 
 •	Natural language processing:
+
   o	Text vectorization
+  
   o	Text lemmatization
   o	TF-IDF
   o	Transfer learning, pretraining, finetuning BERT
